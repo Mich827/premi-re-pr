@@ -1,1 +1,1 @@
-initialisation du fichier
+initialisation du fichier readme

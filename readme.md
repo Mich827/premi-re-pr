@@ -1,3 +1,3 @@
 initialisation du fichier readme twice 
 
-ok
+ok files are good
